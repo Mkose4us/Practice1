@@ -6,5 +6,4 @@ lesus
 mercedes
 civic
 subaru
-
 neon
