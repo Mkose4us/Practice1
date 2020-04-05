@@ -6,3 +6,6 @@ Newyork
 Texas
 California
 Pennsylvania
+ohio
+Arizona
+Kansas
